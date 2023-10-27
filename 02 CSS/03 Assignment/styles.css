@@ -1,12 +1,21 @@
 #photo {
   border: 2px solid blue;
+  float: right;
 }
 h1 {
   color: blue;
+  text-align: center;
 }
 h2 {
   color: gray;
+  text-align: center;
 }
 div {
   margin: 4px;
+  text-align: center;
+}
+ul,
+ol {
+  display: inline-block;
+  text-align: left;
 }
