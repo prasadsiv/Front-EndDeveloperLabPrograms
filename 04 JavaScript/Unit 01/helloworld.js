@@ -1,0 +1,10 @@
+// console.log("hello world!");
+// console.log("%cHello, World", "color: blue; font-size: 40px");
+// console.log("Hello ", "there, ", "World");
+// console.log("Hello " + "there, " + "World");
+let user_name = "siva";
+let greeting = "hello";
+console.log(user_name, greeting);
+user_name = "Prasad";
+greeting = "Hello";
+console.log(user_name, greeting);
